@@ -1,0 +1,16 @@
+pandas
+numpy
+
+transformers[torch]
+sentence-transformers[train]
+torch
+tensorboard
+
+
+openai
+streamlit
+watchdog
+
+ipykernel
+ipywidgets
+tqdm
