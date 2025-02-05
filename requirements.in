@@ -2,15 +2,10 @@ pandas
 numpy
 
 transformers[torch]
-sentence-transformers[train]
+sentence-transformers
 torch
 tensorboard
 
-
-openai
 streamlit
 watchdog
 
-ipykernel
-ipywidgets
-tqdm
