@@ -1,0 +1,4 @@
+data/job_postings.parquet filter=lfs diff=lfs merge=lfs -text
+data/fine_tuned_embeddings.npy filter=lfs diff=lfs merge=lfs -text
+data/default_embeddings.npy filter=lfs diff=lfs merge=lfs -text
+data/fine_tuned_model/** filter=lfs diff=lfs merge=lfs -text
